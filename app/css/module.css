@@ -94,7 +94,7 @@
 .usr-in-usr{
   margin-top: 1em;
   margin-bottom: 5em;
-  width: 80%;}
+  width: 90%;}
 
 .usr-info{
   text-align: left;
@@ -189,4 +189,5 @@
   width: 50%;}
 
 .pretty{
+  font-size: 1.2em;
   color: rgba(0, 170, 129, 1);}
